@@ -1,0 +1,8 @@
+{
+  "name": "app-angular1.x-seed",
+  "version": "1.0.0",
+  "description": "for creating an angular1.x spa project quickly",
+  "repository": "https://github.com/liu-shuang/app-angular1.x-seed",
+  "author": "liu shuang",
+  "license": "MIT"
+}
