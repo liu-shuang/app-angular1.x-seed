@@ -4,5 +4,12 @@
   "description": "for creating an angular1.x spa project quickly",
   "repository": "https://github.com/liu-shuang/app-angular1.x-seed",
   "author": "liu shuang",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "mock": "node mock/app.js"
+  },
+  "dependencies": {
+    "koa": "^2.3.0",
+    "koa-router": "^7.2.1"
+  }
 }
